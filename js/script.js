@@ -67,6 +67,7 @@ $('#form-add-student').on('submit', function (e){
 
 $('.btn-danger').on('click', function (e){
     e.preventDefault();
-
+    const id = $(this).parents('.panel-warning').find('[name="id"]').val();
+    server.deleteStudentById(id).then();
 
 });
