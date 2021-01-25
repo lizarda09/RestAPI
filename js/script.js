@@ -53,16 +53,15 @@ $('#form-add-student').on('submit', function (e){
     e.preventDefault();
 
     const student = {};
-    //const id = `f${(~~(Math.random()*1e8)).toString(16)}`;
     for(let element of $(this).find('[name]')){
         student[$(element).attr('name')] = $(element).val();
     }
-    server.createStudent(student).then(result => {
-        //$('<a>')
-    });
-    //console.log(student)
-});
 
+    server.createStudent(JSON.stringify(student)).then(() => {
+       addStudent(student);
+    });
+
+});
 
 
 
