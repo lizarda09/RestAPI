@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <div class="page-header">
+        <h1>REST</h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    Student List
+                </div>
+                <div class="panel-body">
+                    <div class="list-group" id="student-list">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="panel panel-warning">
+                <div class="panel-heading">
+                    Edit student
+                </div>
+                <div class="panel-body">
+                    <form id="form-edit-student">
+                        <input type="hidden" name="id">
+                        <div class="form-group">
+                            <input type="text" placeholder="firstname" name="firstname" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="lastname" name="lastname" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" placeholder="email" name="email" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="git" name="git" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="group id" name="group_id" class="form-control" readonly>
+                        </div>
+                        <div class="form-group">
+                            <textarea name="info" class="form-control" cols="30" rows="10"></textarea>
+                        </div>
+                    </form>
+                    </div>
+                <div class="panel-footer">
+                    <button form="form-edit-student" class="btn btn-warning">Update</button>
+                    <button class="btn btn-danger">Delete</button>
+                </div>
+                </div>
+            </div>
+        <div class="col-sm-4">
+            <div class="panel panel-success">
+                <div class="panel-heading">Add student</div>
+                <div class="panel-body">
+                    <form id="form-add-student">
+                        <div class="form-group">
+                            <input type="text" placeholder="fistname" name="fistname" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="lastname" name="lastname" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" placeholder="email" name="email" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="git" name="git" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="group id" name="groupId" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <textarea name="info" class="form-control" cols="30" rows="10"></textarea>
+                        </div>
+                    </form>
+                </div>
+                <div class="panel-footer">
+                    <button form="form-add-student" class="btn btn-success">Create</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="js/script.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="912b9e8c-9ae0-4c90-a254-f6857330a283" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../06.11.2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06.11.2020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11.12.2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../11.12.2020/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.11.20/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../16.11.20/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.11.20/task7.js" beforeDir="false" afterPath="$PROJECT_DIR$/../16.11.20/task7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/Canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/Warrior.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/img/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/img/man2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/img/man3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/swap/swapIndex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.12.2020/swap/swapMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23.11.2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../23.11.2020/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.12.2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../4.12.2020/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.12.2020/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4.12.2020/task2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diploma_site/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nQx6oqJEqNsv84wvI3CeVAkJLB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912b9e8c-9ae0-4c90-a254-f6857330a283" name="Default Changelist" comment="" />
+      <created>1611335942598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611335942598</updated>
+      <workItem from="1611335944026" duration="24639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
